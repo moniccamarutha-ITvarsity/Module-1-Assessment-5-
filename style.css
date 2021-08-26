@@ -1,0 +1,28 @@
+.gallery img{
+    width: 100%;
+}
+#menu{
+   width: 100%;
+   height: 40px;
+   background-color: darkolivegreen;
+   padding-top: 12px;
+}
+
+#menu a{
+    color: azure;
+    font-family: fantasy,serif;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 900;
+    
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+
+#menu a:hover{
+    color: darkslategray;
+    
+}
